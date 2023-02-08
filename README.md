@@ -4,4 +4,4 @@ Nadaraya-Watson estimator for stocks correlation. Non-parametric approaches can 
 
 $E(r_{it}) \approx 1/T \sum r_{it}$
 
-Var(r_{it}) \approx \dfrac{1}{T} \sum r_{it}^2 - E(r_{it})^2$
+$Var(r_{it}) \approx \dfrac{1}{T} \sum r_{it}^2 - E(r_{it})^2$
