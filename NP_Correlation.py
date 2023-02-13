@@ -1,5 +1,5 @@
 """
-NP Assignment.py
+NP.py
 
 Purpose:
     Non-Parametric approach for stock correlation
